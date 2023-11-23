@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: itl
+Version: 0.1
+Summary: A utility for patching binaries to use different linkers.
+Home-page: https://github.com/guyinatuxedo/itl
+Author: guyinatuxedo
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
